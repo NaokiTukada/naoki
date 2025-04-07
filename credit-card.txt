@@ -1,0 +1,3 @@
+
+payment=credit
+fee=3.89%	
